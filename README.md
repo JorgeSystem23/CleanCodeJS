@@ -19,7 +19,7 @@ Se adhieren a los estándares de codificación de JavaScript ampliamente aceptad
 * Documentación Completa: 
 Se proporciona una documentación detallada para cada módulo y función, facilitando su comprensión y uso por parte de otros desarrolladores.
 
-Pruebas Unitarias: 
+* Pruebas Unitarias: 
 Se incluyen pruebas unitarias para garantizar la fiabilidad y la robustez del código en diferentes escenarios.
 
 Este repositorio se presenta como un recurso invaluable para cualquier desarrollador que aspire a construir aplicaciones JavaScript escalables y mantenibles, al proporcionar las herramientas y las mejores prácticas necesarias para lograr este objetivo.
